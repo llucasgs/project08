@@ -1,0 +1,118 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-family: "Open Sans", sans-serif;
+  font-size: 62.5%;
+}
+
+body {
+  background-color: #f5f4f0;
+  font-size: 1.6rem;
+  color: #333333;
+}
+
+main {
+  width: 1120px;
+  margin: 80px auto;
+}
+
+section span {
+  font-weight: bold;
+  color: #e1624f;
+}
+
+h1,
+h2,
+h3 {
+  color: #1b1b1b;
+}
+
+h1 {
+  font-size: 3.6rem;
+  margin-top: 8px;
+}
+
+h2 {
+  font-size: 3.2rem;
+  margin-top: 2px;
+  margin-bottom: 8px;
+}
+
+figure img {
+  border-radius: 28px;
+  margin-top: 48px;
+  margin-bottom: 20px;
+}
+
+img.busan-city {
+  margin-top: 44px;
+  margin-bottom: 24px;
+}
+
+figcaption.busan-city {
+  text-align: center;
+  font-style: italic;
+}
+
+#divider1 {
+  border-top: 1px solid #d9d9d9;
+  margin-top: 40px;
+  margin-bottom: 64px;
+}
+
+section p {
+  padding-bottom: 16px;
+}
+
+article h3 {
+  font-size: 2.8rem;
+  margin-bottom: 4px;
+}
+
+ul {
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+ul li {
+  margin-left: 20px;
+}
+
+li.history {
+  color: #0c51a7;
+}
+li.history:hover {
+  color: #1470e0;
+}
+li.couple {
+  color: #591b98;
+}
+li.couple:hover {
+  color: #8129d8;
+}
+li.family {
+  color: #e5245e;
+}
+li.family:hover {
+  color: #ef5c88;
+}
+li.budget {
+  color: #e95e10;
+}
+li.budget:hover {
+  color: #e27c41;
+}
+
+#divider2 {
+  border-top: 1px solid #d9d9d9;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+footer {
+  text-align: center;
+}
